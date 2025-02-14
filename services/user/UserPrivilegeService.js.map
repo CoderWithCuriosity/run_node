@@ -1,0 +1,1 @@
+{"version":3,"file":"UserPrivilegeService.js","sourceRoot":"","sources":["../../../src/services/user/UserPrivilegeService.ts"],"names":[],"mappings":";;;;;AAAA,sFAA+E;AAC/E,6DAAqC;AAErC,MAAM,oBAAqB,SAAQ,mBAAyB;IAExD,YAAY,kBAA2B,EAAE;QACrC,KAAK,CAAC,wBAAa,EAAE,eAAe,CAAC,CAAC;IAC1C,CAAC;CACJ;AAED,kBAAe,oBAAoB,CAAC"}

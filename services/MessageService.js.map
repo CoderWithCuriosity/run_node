@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageService.js","sourceRoot":"","sources":["../../src/services/MessageService.ts"],"names":[],"mappings":";;;;;AAAA,gEAAsD;AACtD,4DAAoC;AAEpC,MAAM,cAAe,SAAQ,mBAAmB;IAC9C,YAAY,kBAA4B,EAAE;QACxC,KAAK,CAAC,iBAAO,EAAE,eAAe,CAAC,CAAC;IAClC,CAAC;CACF;AAED,kBAAe,cAAc,CAAC"}
